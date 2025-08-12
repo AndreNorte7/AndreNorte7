@@ -1,4 +1,5 @@
-    <img src="https://img.shields.io/badge/Email-herrydenger92%40gmail.com-red?<h1 align="center">👋 Olá, eu sou o André!</h1>
+<h1 align="center">👋 Olá, eu sou o André!</h1>
+
 
 <p align="center">
 💻 Técnico em Informática | 📌 Programação, Redes e Montagem de PCs | 🚀 Entusiasta de tecnologia e aprendizado constante
