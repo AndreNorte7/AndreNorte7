@@ -5,9 +5,9 @@
 💻 Técnico em Informática | 📌 Programação, Redes e Montagem de PCs | 🚀 Entusiasta de tecnologia e aprendizado constante
 </p>
 
-
-## 📖 Sobre mim
-- 🎓 Técnico em Informática em formação pelo **Instituto Educacional Prisma (2024)**
+### 📖 Sobre mim
+- 🎓 Estudante do **Ensino Médio** no **Instituto Educacional Prisma**
+- 🎓 Cursando **Técnico em Informática** no **SENAC**
 - 🔧 Experiência prática em montagem e manutenção de computadores
 - 🌐 Interesse em **programação**, **redes** e **suporte técnico**
 - 📚 Atualmente aprendendo **Java** e **Python** para ampliar minhas habilidades
