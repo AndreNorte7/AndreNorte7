@@ -37,13 +37,10 @@
   <a href="mailto:herrydenger92@gmail.com">
     <img src="https://img.shields.io/badge/Email-herrydenger92%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/AndreNorte7">
     <img src="https://img.shields.io/badge/GitHub-AndreNorte7-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 
-⭐ _"O aprendizado constante é a chave para o sucesso na tecnologia."_style=for-the
+⭐ _"O aprendizado constante é a chave para o sucesso na tecnologia."
