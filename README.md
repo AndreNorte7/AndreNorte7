@@ -36,8 +36,8 @@
 ## 📫 Como me encontrar
 
 [![Email](https://img.shields.io/badge/Email-herrydenger92@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:herrydenger92@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-strak777_%20-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/tVyBdFdG)  
-[![GitHub](https://img.shields.io/badge/GitHub-andrenorte7-181717?style=for-the-badge&logo=github)](https://github.com/andrenorte7))
+[![Discord](https://img.shields.io/badge/Discord-strak777__%20-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/tVyBdFdG)  
+[![GitHub](https://img.shields.io/badge/GitHub-andrenorte7-181717?style=for-the-badge&logo=github)](https://github.com/andrenorte7)
 
 
 ⭐ _"O aprendizado constante é a chave para o sucesso na tecnologia."
