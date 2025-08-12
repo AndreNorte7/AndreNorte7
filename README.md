@@ -6,7 +6,7 @@
 </p>
 
 ### 📖 Sobre mim
-- 🎓 Estudante do **Ensino Médio** no **Instituto Educacional Prisma**
+- ✍️ Estudante do **Ensino Médio** no **Instituto Educacional Prisma**
 - 🎓 Cursando **Técnico em Informática** no **SENAC**
 - 🔧 Experiência prática em montagem e manutenção de computadores
 - 🌐 Interesse em **programação**, **redes** e **suporte técnico**
